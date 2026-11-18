@@ -1,0 +1,99 @@
+[
+  {
+    "persona_id": "persona.high_e_high_n",
+    "quadrant": "high_e_high_n",
+    "template": "v1",
+    "extraversion": "high",
+    "neuroticism": "high",
+    "text": "I am more likely to seek social conversation and more likely to share my ideas with other people. I feel worried more often, and uneasy feelings affect me more strongly."
+  },
+  {
+    "persona_id": "persona.high_e_low_n",
+    "quadrant": "high_e_low_n",
+    "template": "v1",
+    "extraversion": "high",
+    "neuroticism": "low",
+    "text": "I am more likely to seek social conversation and more likely to share my ideas with other people. I feel worried less often, and uneasy feelings affect me less strongly."
+  },
+  {
+    "persona_id": "persona.low_e_high_n",
+    "quadrant": "low_e_high_n",
+    "template": "v1",
+    "extraversion": "low",
+    "neuroticism": "high",
+    "text": "I am less likely to seek social conversation and less likely to share my ideas with other people. I feel worried more often, and uneasy feelings affect me more strongly."
+  },
+  {
+    "persona_id": "persona.low_e_low_n",
+    "quadrant": "low_e_low_n",
+    "template": "v1",
+    "extraversion": "low",
+    "neuroticism": "low",
+    "text": "I am less likely to seek social conversation and less likely to share my ideas with other people. I feel worried less often, and uneasy feelings affect me less strongly."
+  },
+  {
+    "persona_id": "persona.high_e_high_n.v2",
+    "quadrant": "high_e_high_n",
+    "template": "v2",
+    "extraversion": "high",
+    "neuroticism": "high",
+    "text": "I am more likely to join social activities and more likely to speak in group discussions. Worried feelings occur more frequently for me, and unpleasant emotions feel more intense."
+  },
+  {
+    "persona_id": "persona.high_e_low_n.v2",
+    "quadrant": "high_e_low_n",
+    "template": "v2",
+    "extraversion": "high",
+    "neuroticism": "low",
+    "text": "I am more likely to join social activities and more likely to speak in group discussions. Worried feelings occur less frequently for me, and unpleasant emotions feel less intense."
+  },
+  {
+    "persona_id": "persona.low_e_high_n.v2",
+    "quadrant": "low_e_high_n",
+    "template": "v2",
+    "extraversion": "low",
+    "neuroticism": "high",
+    "text": "I am less likely to join social activities and less likely to speak in group discussions. Worried feelings occur more frequently for me, and unpleasant emotions feel more intense."
+  },
+  {
+    "persona_id": "persona.low_e_low_n.v2",
+    "quadrant": "low_e_low_n",
+    "template": "v2",
+    "extraversion": "low",
+    "neuroticism": "low",
+    "text": "I am less likely to join social activities and less likely to speak in group discussions. Worried feelings occur less frequently for me, and unpleasant emotions feel less intense."
+  },
+  {
+    "persona_id": "persona.high_e_high_n.v3",
+    "quadrant": "high_e_high_n",
+    "template": "v3",
+    "extraversion": "high",
+    "neuroticism": "high",
+    "text": "I am more likely to start conversations and more likely to discuss interests with other people. I experience unease more often, and negative feelings are generally more intense."
+  },
+  {
+    "persona_id": "persona.high_e_low_n.v3",
+    "quadrant": "high_e_low_n",
+    "template": "v3",
+    "extraversion": "high",
+    "neuroticism": "low",
+    "text": "I am more likely to start conversations and more likely to discuss interests with other people. I experience unease less often, and negative feelings are generally less intense."
+  },
+  {
+    "persona_id": "persona.low_e_high_n.v3",
+    "quadrant": "low_e_high_n",
+    "template": "v3",
+    "extraversion": "low",
+    "neuroticism": "high",
+    "text": "I am less likely to start conversations and less likely to discuss interests with other people. I experience unease more often, and negative feelings are generally more intense."
+  },
+  {
+    "persona_id": "persona.low_e_low_n.v3",
+    "quadrant": "low_e_low_n",
+    "template": "v3",
+    "extraversion": "low",
+    "neuroticism": "low",
+    "text": "I am less likely to start conversations and less likely to discuss interests with other people. I experience unease less often, and negative feelings are generally less intense."
+  }
+]
+

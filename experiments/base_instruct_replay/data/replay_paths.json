@@ -1,0 +1,674 @@
+{
+  "schema_version": 1,
+  "source": "/Users/lialind/.codex/worktrees/base-replay-lab/lab/results/formal-v3.jsonl",
+  "source_sha256": "36bb49a865368eac85b51b56de66d31d217763bd6ce7f14e4c390043c1184e4a",
+  "filter": {
+    "arm": "feedback_only"
+  },
+  "source_record_count": 120,
+  "semantic_path_count": 10,
+  "path_weighting": "one equal-weight block per unique semantic path",
+  "paths": [
+    {
+      "path_id": "path-01",
+      "source_count": 52,
+      "source_run_ids": [
+        "persona.high_e_high_n.seed-3001.feedback_only",
+        "persona.high_e_high_n.seed-3002.feedback_only",
+        "persona.high_e_high_n.seed-3005.feedback_only",
+        "persona.high_e_high_n.seed-3007.feedback_only",
+        "persona.high_e_high_n.v2.seed-3001.feedback_only",
+        "persona.high_e_high_n.v2.seed-3002.feedback_only",
+        "persona.high_e_high_n.v2.seed-3005.feedback_only",
+        "persona.high_e_high_n.v2.seed-3007.feedback_only",
+        "persona.high_e_high_n.v3.seed-3001.feedback_only",
+        "persona.high_e_high_n.v3.seed-3002.feedback_only",
+        "persona.high_e_high_n.v3.seed-3005.feedback_only",
+        "persona.high_e_high_n.v3.seed-3007.feedback_only",
+        "persona.high_e_high_n.v3.seed-3009.feedback_only",
+        "persona.high_e_low_n.seed-3001.feedback_only",
+        "persona.high_e_low_n.seed-3002.feedback_only",
+        "persona.high_e_low_n.seed-3005.feedback_only",
+        "persona.high_e_low_n.seed-3007.feedback_only",
+        "persona.high_e_low_n.v2.seed-3001.feedback_only",
+        "persona.high_e_low_n.v2.seed-3002.feedback_only",
+        "persona.high_e_low_n.v2.seed-3005.feedback_only",
+        "persona.high_e_low_n.v2.seed-3007.feedback_only",
+        "persona.high_e_low_n.v3.seed-3001.feedback_only",
+        "persona.high_e_low_n.v3.seed-3002.feedback_only",
+        "persona.high_e_low_n.v3.seed-3005.feedback_only",
+        "persona.high_e_low_n.v3.seed-3007.feedback_only",
+        "persona.high_e_low_n.v3.seed-3009.feedback_only",
+        "persona.low_e_high_n.seed-3001.feedback_only",
+        "persona.low_e_high_n.seed-3002.feedback_only",
+        "persona.low_e_high_n.seed-3005.feedback_only",
+        "persona.low_e_high_n.seed-3007.feedback_only",
+        "persona.low_e_high_n.v2.seed-3001.feedback_only",
+        "persona.low_e_high_n.v2.seed-3002.feedback_only",
+        "persona.low_e_high_n.v2.seed-3005.feedback_only",
+        "persona.low_e_high_n.v2.seed-3007.feedback_only",
+        "persona.low_e_high_n.v2.seed-3009.feedback_only",
+        "persona.low_e_high_n.v3.seed-3001.feedback_only",
+        "persona.low_e_high_n.v3.seed-3002.feedback_only",
+        "persona.low_e_high_n.v3.seed-3005.feedback_only",
+        "persona.low_e_high_n.v3.seed-3007.feedback_only",
+        "persona.low_e_low_n.seed-3001.feedback_only",
+        "persona.low_e_low_n.seed-3002.feedback_only",
+        "persona.low_e_low_n.seed-3005.feedback_only",
+        "persona.low_e_low_n.seed-3007.feedback_only",
+        "persona.low_e_low_n.v2.seed-3001.feedback_only",
+        "persona.low_e_low_n.v2.seed-3002.feedback_only",
+        "persona.low_e_low_n.v2.seed-3005.feedback_only",
+        "persona.low_e_low_n.v2.seed-3007.feedback_only",
+        "persona.low_e_low_n.v2.seed-3009.feedback_only",
+        "persona.low_e_low_n.v3.seed-3001.feedback_only",
+        "persona.low_e_low_n.v3.seed-3002.feedback_only",
+        "persona.low_e_low_n.v3.seed-3005.feedback_only",
+        "persona.low_e_low_n.v3.seed-3007.feedback_only"
+      ],
+      "representative_run_id": "persona.high_e_high_n.seed-3001.feedback_only",
+      "has_invalid_guess": false,
+      "rounds": [
+        {
+          "round": 1,
+          "guess": "4567",
+          "feedback": [
+            0,
+            1
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 2,
+          "guess": "8901",
+          "feedback": [
+            0,
+            1
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 3,
+          "guess": "3456",
+          "feedback": [
+            0,
+            1
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 4,
+          "guess": "7890",
+          "feedback": [
+            0,
+            1
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 5,
+          "guess": "1234",
+          "feedback": [
+            0,
+            1
+          ],
+          "outcome": "unsuccessful"
+        }
+      ]
+    },
+    {
+      "path_id": "path-02",
+      "source_count": 12,
+      "source_run_ids": [
+        "persona.high_e_high_n.seed-3006.feedback_only",
+        "persona.high_e_high_n.v2.seed-3006.feedback_only",
+        "persona.high_e_high_n.v3.seed-3006.feedback_only",
+        "persona.high_e_low_n.seed-3006.feedback_only",
+        "persona.high_e_low_n.v2.seed-3006.feedback_only",
+        "persona.high_e_low_n.v3.seed-3006.feedback_only",
+        "persona.low_e_high_n.seed-3006.feedback_only",
+        "persona.low_e_high_n.v2.seed-3006.feedback_only",
+        "persona.low_e_high_n.v3.seed-3006.feedback_only",
+        "persona.low_e_low_n.seed-3006.feedback_only",
+        "persona.low_e_low_n.v2.seed-3006.feedback_only",
+        "persona.low_e_low_n.v3.seed-3006.feedback_only"
+      ],
+      "representative_run_id": "persona.high_e_high_n.seed-3006.feedback_only",
+      "has_invalid_guess": false,
+      "rounds": [
+        {
+          "round": 1,
+          "guess": "0246",
+          "feedback": [
+            0,
+            1
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 2,
+          "guess": "1258",
+          "feedback": [
+            0,
+            1
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 3,
+          "guess": "0789",
+          "feedback": [
+            0,
+            1
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 4,
+          "guess": "1245",
+          "feedback": [
+            0,
+            1
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 5,
+          "guess": "0789",
+          "feedback": [
+            0,
+            1
+          ],
+          "outcome": "unsuccessful"
+        }
+      ]
+    },
+    {
+      "path_id": "path-03",
+      "source_count": 12,
+      "source_run_ids": [
+        "persona.high_e_high_n.seed-3003.feedback_only",
+        "persona.high_e_high_n.v2.seed-3003.feedback_only",
+        "persona.high_e_high_n.v3.seed-3003.feedback_only",
+        "persona.high_e_low_n.seed-3003.feedback_only",
+        "persona.high_e_low_n.v2.seed-3003.feedback_only",
+        "persona.high_e_low_n.v3.seed-3003.feedback_only",
+        "persona.low_e_high_n.seed-3003.feedback_only",
+        "persona.low_e_high_n.v2.seed-3003.feedback_only",
+        "persona.low_e_high_n.v3.seed-3003.feedback_only",
+        "persona.low_e_low_n.seed-3003.feedback_only",
+        "persona.low_e_low_n.v2.seed-3003.feedback_only",
+        "persona.low_e_low_n.v3.seed-3003.feedback_only"
+      ],
+      "representative_run_id": "persona.high_e_high_n.seed-3003.feedback_only",
+      "has_invalid_guess": false,
+      "rounds": [
+        {
+          "round": 1,
+          "guess": "4567",
+          "feedback": [
+            0,
+            1
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 2,
+          "guess": "8901",
+          "feedback": [
+            0,
+            1
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 3,
+          "guess": "3456",
+          "feedback": [
+            0,
+            1
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 4,
+          "guess": "7890",
+          "feedback": [
+            0,
+            1
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 5,
+          "guess": "2345",
+          "feedback": [
+            1,
+            1
+          ],
+          "outcome": "unsuccessful"
+        }
+      ]
+    },
+    {
+      "path_id": "path-04",
+      "source_count": 12,
+      "source_run_ids": [
+        "persona.high_e_high_n.seed-3008.feedback_only",
+        "persona.high_e_high_n.v2.seed-3008.feedback_only",
+        "persona.high_e_high_n.v3.seed-3008.feedback_only",
+        "persona.high_e_low_n.seed-3008.feedback_only",
+        "persona.high_e_low_n.v2.seed-3008.feedback_only",
+        "persona.high_e_low_n.v3.seed-3008.feedback_only",
+        "persona.low_e_high_n.seed-3008.feedback_only",
+        "persona.low_e_high_n.v2.seed-3008.feedback_only",
+        "persona.low_e_high_n.v3.seed-3008.feedback_only",
+        "persona.low_e_low_n.seed-3008.feedback_only",
+        "persona.low_e_low_n.v2.seed-3008.feedback_only",
+        "persona.low_e_low_n.v3.seed-3008.feedback_only"
+      ],
+      "representative_run_id": "persona.high_e_high_n.seed-3008.feedback_only",
+      "has_invalid_guess": true,
+      "rounds": [
+        {
+          "round": 1,
+          "guess": "4567",
+          "feedback": [
+            0,
+            1
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 2,
+          "guess": "8901",
+          "feedback": [
+            0,
+            1
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 3,
+          "guess": "3456",
+          "feedback": [
+            0,
+            1
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 4,
+          "guess": "7890",
+          "feedback": [
+            0,
+            1
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 5,
+          "guess": null,
+          "feedback": null,
+          "outcome": "invalid"
+        }
+      ]
+    },
+    {
+      "path_id": "path-05",
+      "source_count": 11,
+      "source_run_ids": [
+        "persona.high_e_high_n.seed-3010.feedback_only",
+        "persona.high_e_high_n.v2.seed-3010.feedback_only",
+        "persona.high_e_high_n.v3.seed-3010.feedback_only",
+        "persona.high_e_low_n.seed-3010.feedback_only",
+        "persona.high_e_low_n.v3.seed-3010.feedback_only",
+        "persona.low_e_high_n.seed-3010.feedback_only",
+        "persona.low_e_high_n.v2.seed-3010.feedback_only",
+        "persona.low_e_high_n.v3.seed-3010.feedback_only",
+        "persona.low_e_low_n.seed-3010.feedback_only",
+        "persona.low_e_low_n.v2.seed-3010.feedback_only",
+        "persona.low_e_low_n.v3.seed-3010.feedback_only"
+      ],
+      "representative_run_id": "persona.high_e_high_n.seed-3010.feedback_only",
+      "has_invalid_guess": true,
+      "rounds": [
+        {
+          "round": 1,
+          "guess": null,
+          "feedback": null,
+          "outcome": "invalid"
+        },
+        {
+          "round": 2,
+          "guess": "4567",
+          "feedback": [
+            0,
+            1
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 3,
+          "guess": "8901",
+          "feedback": [
+            0,
+            1
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 4,
+          "guess": "3456",
+          "feedback": [
+            0,
+            1
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 5,
+          "guess": "7890",
+          "feedback": [
+            0,
+            1
+          ],
+          "outcome": "unsuccessful"
+        }
+      ]
+    },
+    {
+      "path_id": "path-06",
+      "source_count": 8,
+      "source_run_ids": [
+        "persona.high_e_high_n.seed-3009.feedback_only",
+        "persona.high_e_high_n.v2.seed-3009.feedback_only",
+        "persona.high_e_low_n.seed-3009.feedback_only",
+        "persona.high_e_low_n.v2.seed-3009.feedback_only",
+        "persona.low_e_high_n.seed-3009.feedback_only",
+        "persona.low_e_high_n.v3.seed-3009.feedback_only",
+        "persona.low_e_low_n.seed-3009.feedback_only",
+        "persona.low_e_low_n.v3.seed-3009.feedback_only"
+      ],
+      "representative_run_id": "persona.high_e_high_n.seed-3009.feedback_only",
+      "has_invalid_guess": false,
+      "rounds": [
+        {
+          "round": 1,
+          "guess": "0000",
+          "feedback": [
+            0,
+            0
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 2,
+          "guess": "1010",
+          "feedback": [
+            0,
+            0
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 3,
+          "guess": "0000",
+          "feedback": [
+            0,
+            0
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 4,
+          "guess": "1010",
+          "feedback": [
+            0,
+            0
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 5,
+          "guess": "0000",
+          "feedback": [
+            0,
+            0
+          ],
+          "outcome": "unsuccessful"
+        }
+      ]
+    },
+    {
+      "path_id": "path-07",
+      "source_count": 6,
+      "source_run_ids": [
+        "persona.high_e_high_n.v2.seed-3004.feedback_only",
+        "persona.high_e_low_n.v2.seed-3004.feedback_only",
+        "persona.low_e_high_n.v2.seed-3004.feedback_only",
+        "persona.low_e_high_n.v3.seed-3004.feedback_only",
+        "persona.low_e_low_n.v2.seed-3004.feedback_only",
+        "persona.low_e_low_n.v3.seed-3004.feedback_only"
+      ],
+      "representative_run_id": "persona.high_e_high_n.v2.seed-3004.feedback_only",
+      "has_invalid_guess": false,
+      "rounds": [
+        {
+          "round": 1,
+          "guess": "0478",
+          "feedback": [
+            0,
+            1
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 2,
+          "guess": "6590",
+          "feedback": [
+            0,
+            1
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 3,
+          "guess": "3489",
+          "feedback": [
+            0,
+            1
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 4,
+          "guess": "5670",
+          "feedback": [
+            0,
+            1
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 5,
+          "guess": "1234",
+          "feedback": [
+            0,
+            1
+          ],
+          "outcome": "unsuccessful"
+        }
+      ]
+    },
+    {
+      "path_id": "path-08",
+      "source_count": 5,
+      "source_run_ids": [
+        "persona.high_e_high_n.seed-3004.feedback_only",
+        "persona.high_e_high_n.v3.seed-3004.feedback_only",
+        "persona.high_e_low_n.seed-3004.feedback_only",
+        "persona.low_e_high_n.seed-3004.feedback_only",
+        "persona.low_e_low_n.seed-3004.feedback_only"
+      ],
+      "representative_run_id": "persona.high_e_high_n.seed-3004.feedback_only",
+      "has_invalid_guess": false,
+      "rounds": [
+        {
+          "round": 1,
+          "guess": "0478",
+          "feedback": [
+            0,
+            1
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 2,
+          "guess": "6590",
+          "feedback": [
+            0,
+            1
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 3,
+          "guess": "3489",
+          "feedback": [
+            0,
+            1
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 4,
+          "guess": "1234",
+          "feedback": [
+            0,
+            2
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 5,
+          "guess": "7654",
+          "feedback": [
+            1,
+            1
+          ],
+          "outcome": "unsuccessful"
+        }
+      ]
+    },
+    {
+      "path_id": "path-09",
+      "source_count": 1,
+      "source_run_ids": [
+        "persona.high_e_low_n.v3.seed-3004.feedback_only"
+      ],
+      "representative_run_id": "persona.high_e_low_n.v3.seed-3004.feedback_only",
+      "has_invalid_guess": false,
+      "rounds": [
+        {
+          "round": 1,
+          "guess": "0478",
+          "feedback": [
+            0,
+            1
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 2,
+          "guess": "6590",
+          "feedback": [
+            0,
+            1
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 3,
+          "guess": "3489",
+          "feedback": [
+            0,
+            1
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 4,
+          "guess": "1234",
+          "feedback": [
+            0,
+            2
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 5,
+          "guess": "7890",
+          "feedback": [
+            0,
+            0
+          ],
+          "outcome": "unsuccessful"
+        }
+      ]
+    },
+    {
+      "path_id": "path-10",
+      "source_count": 1,
+      "source_run_ids": [
+        "persona.high_e_low_n.v2.seed-3010.feedback_only"
+      ],
+      "representative_run_id": "persona.high_e_low_n.v2.seed-3010.feedback_only",
+      "has_invalid_guess": true,
+      "rounds": [
+        {
+          "round": 1,
+          "guess": null,
+          "feedback": null,
+          "outcome": "invalid"
+        },
+        {
+          "round": 2,
+          "guess": "4567",
+          "feedback": [
+            0,
+            1
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 3,
+          "guess": "8901",
+          "feedback": [
+            0,
+            1
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 4,
+          "guess": "2345",
+          "feedback": [
+            0,
+            1
+          ],
+          "outcome": "unsuccessful"
+        },
+        {
+          "round": 5,
+          "guess": "6789",
+          "feedback": [
+            0,
+            1
+          ],
+          "outcome": "unsuccessful"
+        }
+      ]
+    }
+  ]
+}
